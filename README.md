@@ -79,6 +79,7 @@
 
 <td><a href = "https://acmp.ru/" target ="_blank">acmp.ru</a></td>
 <td><a href = "https://devskill.com/CodingProblems" target ="_blank">Devskill</a></td>
+<td><a href = "https://onlinejudge.org/" target ="_blank">UVA</a></td>
 
 </tr>
  
