@@ -85,3 +85,49 @@
  
  </table>
 <br><br>
+
+### Learning Resources
+<p>
+
+###  Prime Numbers
+<p>
+
+* <a href = "https://www.mathsisfun.com/numbers/prime-numbers-advanced.html" target ="_blank">What is Prime Numbers</a><p>
+* <a href = "http://thales.doa.fmph.uniba.sk/macaj/skola/teoriapoli/primes.pdf" target ="_blank"> Prime Numbers: A Computational Perspective</a><p>
+* <a href = "https://softwareengineering.stackexchange.com/questions/197374/what-is-the-time-complexity-of-the-algorithm-to-check-if-a-number-is-prime" target ="_blank">What is the time complexity of the algorithm to check if a number is prime?</a><p>
+* <a href = "https://labuladong.gitbook.io/algo-en/iv.-high-frequency-interview-problem/print_primenumbers" target ="_blank">How to Find Prime Number Efficiently</a><p>
+* <a href = "https://zenodo.org/record/2294397" target ="_blank">Contributions to the theory of the Riemann Zeta-function and the theory of the distribution of primes</a><p>
+* <a href = "https://codeforces.com/blog/entry/91632" target ="_blank">Counting primes</a><p>
+* <a href = "https://codeforces.com/blog/entry/75852" target ="_blank">How to get prime numbers upto 10^9?</a><p>
+* <a href = "https://www.shafaetsplanet.com/planetcoding/?p=624" target ="_blank">প্রাইম জেনারেটর (Sieve of Eratosthenes)</a><p>
+* <a href = "https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html" target ="_blank">Sieve of Eratosthenes</a><p>
+* <a href = "https://drive.google.com/file/d/0B5RdulufcU-rcXU5Wk1DbXRPNFk/view?resourcekey=0-G7n6CeoIYs9wrpfWcFjwMQ" target ="_blank">A linear sieve algorithm for finding prime numbers</a><p>
+* <a href = "https://stackoverflow.com/questions/2582732/time-complexity-of-sieve-of-eratosthenes-algorithm" target ="_blank">Time complexity of Sieve of Eratosthenes algorithm</a><p>
+* <a href = "https://codeforces.com/blog/entry/22229" target ="_blank">Extensions of the Prime Sieve</a><p>
+* <a href = "https://cp-algorithms.com/algebra/prime-sieve-linear.html" target ="_blank">Linear Sieve</a><p>
+* <a href = "https://codeforces.com/blog/entry/54090" target ="_blank">[Tutorial] Math note — linear sieve</a><p>
+* <a href = "https://www.shafaetsplanet.com/planetcoding/?p=855" target ="_blank">বিটওয়াইজ্ সিভ(Bitwise sieve)</a><p>
+* <a href = "https://www.geeksforgeeks.org/sieve-eratosthenes-0n-time-complexity/" target ="_blank">Sieve of Eratosthenes in 0(n) time complexity</a><p>
+* <a href = "https://programmingpraxis.com/2012/01/06/pritchards-wheel-sieve/" target ="_blank">Pritchard’s Wheel Sieve</a><p>
+* <a href = "https://core.ac.uk/download/pdf/82210536.pdf" target ="_blank">LINEAR PRIME-NUMBER SIEVES: A FAMILY TREE</a><p>
+* <a href = "https://iishanto.com/prime-numbers-efficient-prime-factorization-bangla/" target ="_blank">সংখ্যাতত্ত্ব: মৌলিক সংখ্যা- প্রাইম ফ্যাক্টরাইজেশন, SOD এবং NOD</a><p>
+* <a href = "https://anindyaspaul.com/blog/2013/08/04/sieve-of-eratosthenes/" target ="_blank">প্রাইম নাম্বার - সিভ অফ এরাটস্থেনিজ (Prime Number - Sieve of Eratosthenes)</a><p>
+* <a href = "https://anindyaspaul.com/blog/2013/08/06/bitwise-sieve/" target ="_blank">প্রাইম নাম্বার - বিট-ওয়াইজ সিভ (Prime Number - Bitwise Sieve)</a><p>
+* <a href = "https://simantaturja.blogspot.com/2019/05/blog-post.html" target ="_blank"> মিলার রবিন প্রাইমালিটি টেস্ট </a><p>
+* <a href = "https://returnzerooo.wordpress.com/2016/03/03/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%AE-%E0%A6%B8%E0%A6%BF%E0%A6%AD-%E0%A6%AB%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%B0/" target ="_blank"> প্রাইম জেনারেশন সিভ ও প্রাইম ফ্যাক্টরাইজেশন</a><p>
+* <a href = "https://www.shawonruet.com/2016/10/segmented-sieve.html" target ="_blank">  সেগমেন্টেড সিভ (Segmented Sieve)  </a><p>
+* <a href = "https://cp-algorithms.com/algebra/factorization.html" target ="_blank"> Integer factorization </a><p>
+* <a href = "https://www.alpertron.com.ar/ECM.HTM" target ="_blank"> Integer factorization calculator </a><p>
+* <a href = "https://en.wikipedia.org/wiki/Quadratic_sieve" target ="_blank"> Quadratic sieve</a><p>
+* <a href = "https://www.cse.iitk.ac.in/users/manindra/algebra/primality_v6.pdf" target ="_blank"> PRIMES is in P</a><p>
+* <a href = "https://math.dartmouth.edu/~carlp/aks041411.pdf" target ="_blank"> Primality testing with Gaussian periods</a><p>
+* <a href = "https://www.scottaaronson.com/writings/prime.pdf" target ="_blank"> The Prime Facts: From Euclid to AKS</a><p>
+* <a href = "http://fatphil.org/maths/AKS/" target ="_blank"> The AKS "PRIMES in P" Algorithm Resource</a><p>
+* <a href = "https://stackoverflow.com/questions/2586596/fastest-algorithm-for-primality-test" target ="_blank"> Fastest algorithm for primality test</a><p>
+* <a href = "http://gandraxa.com/miller_rabin_primality_test.xml" target ="_blank">  Step-by-step demonstration of the Miller-Rabin primality test as per your input.</a><p>
+* <a href = "https://crypto.stanford.edu/pbc/notes/numbertheory/millerrabin.html" target ="_blank"> Primality Tests</a><p>
+* <a href = "https://www.geeksforgeeks.org/primality-test-set-3-miller-rabin/" target ="_blank"> Primality Test-(Miller–Rabin)</a><p>
+* <a href = "https://randop321.com/2021/11/27/the-miller-rabin-algorithm-and-primality-tests/" target ="_blank"> Miller-Rabin Algorithm and Primality Tests</a><p>
+* <a href = "https://www.cis.upenn.edu/~jean/RSA-primality-testing.pdf" target ="_blank">Notes on Primality Testing And Public Key Cryptography</a><p>
+
+### practice problems of prime numbers[to be continued]
