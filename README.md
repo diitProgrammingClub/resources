@@ -81,6 +81,7 @@
 <td><a href = "https://devskill.com/CodingProblems" target ="_blank">Devskill</a></td>
 <td><a href = "https://onlinejudge.org/" target ="_blank">UVA</a></td>
 <td><a href = "https://challenge.quora.com/" target ="_blank">Quora Programming Challenge</a></td>
+<td><a href = "https://mao.snuke.org/tasks/" target ="_blank">Markov Algorithm Online</a></td>
 
 </tr>
  
