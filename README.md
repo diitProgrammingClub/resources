@@ -140,3 +140,46 @@
 * <a href = "https://www.cis.upenn.edu/~jean/RSA-primality-testing.pdf" target ="_blank">Notes on Primality Testing And Public Key Cryptography</a><p>
 
 ### practice problems of prime numbers[to be continued]
+
+### basic 
+ 
+ <table border = "1" >
+<tr>
+<td><a href=" " target="_blank"> </a></td>
+<td><a href=" " target="_blank"> </a></td>
+<td><a href=" " target="_blank"> </a></td>
+<td><a href=" " target="_blank"> </a></td>
+<td><a href=" " target="_blank"> </a></td>
+</tr>
+</table>
+<br><br>
+
+### easy
+
+
+  <table border = "1" >
+<tr>
+<td><a href=" " target="_blank"> </a></td>
+<td><a href=" " target="_blank"> </a></td>
+<td><a href=" " target="_blank"> </a></td>
+<td><a href=" " target="_blank"> </a></td>
+<td><a href=" " target="_blank"> </a></td>
+</tr>
+</table>
+<br><br>
+
+    
+
+      
+### hard(nothing is hard)
+
+  <table border = "1" >
+<tr>
+<td><a href=" " target="_blank"> </a></td>
+<td><a href=" " target="_blank"> </a></td>
+<td><a href=" " target="_blank"> </a></td>
+<td><a href=" " target="_blank"> </a></td>
+<td><a href=" " target="_blank"> </a></td>
+</tr>
+</table>
+<br><br>
