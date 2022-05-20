@@ -127,6 +127,8 @@
 * <a href = "https://cp-algorithms.com/algebra/factorization.html" target ="_blank"> Integer factorization </a><p>
 * <a href = "https://www.alpertron.com.ar/ECM.HTM" target ="_blank"> Integer factorization calculator </a><p>
 * <a href = "https://en.wikipedia.org/wiki/Quadratic_sieve" target ="_blank"> Quadratic sieve</a><p>
+* <a href = "https://math.dartmouth.edu/~carlp/PDF/qs08.pdf" target ="_blank">Smooth numbers and the quadratic sieve</a><p>
+* <a href = "https://math.stackexchange.com/questions/2918263/basics-of-quadratic-sieve-algorithm" target ="_blank">Basics of Quadratic Sieve algorithm</a><p>
 * <a href = "https://www.cse.iitk.ac.in/users/manindra/algebra/primality_v6.pdf" target ="_blank"> PRIMES is in P</a><p>
 * <a href = "https://math.dartmouth.edu/~carlp/aks041411.pdf" target ="_blank"> Primality testing with Gaussian periods</a><p>
 * <a href = "https://www.scottaaronson.com/writings/prime.pdf" target ="_blank"> The Prime Facts: From Euclid to AKS</a><p>
