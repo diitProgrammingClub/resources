@@ -70,7 +70,6 @@
 <td><a href="https://uoj.ac/" target="_blank">Universal OJ</a></td>
 <td><a href = "https://projecteuler.net/" target ="_blank">Projecteuler</a></td>
 <td><a href = "https://practice.geeksforgeeks.org/explore/" target ="_blank">GeeksforGeeks</a></td>
-<td><a href = "https://codesignal.com/" target ="_blank">Codesignal</a></td>
 
 </tr>
 <tr>
