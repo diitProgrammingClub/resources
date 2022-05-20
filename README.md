@@ -116,7 +116,6 @@
 * <a href = "https://cp-algorithms.com/algebra/prime-sieve-linear.html" target ="_blank">Linear Sieve</a><p>
 * <a href = "https://codeforces.com/blog/entry/54090" target ="_blank">[Tutorial] Math note — linear sieve</a><p>
 * <a href = "https://www.shafaetsplanet.com/planetcoding/?p=855" target ="_blank">বিটওয়াইজ্ সিভ(Bitwise sieve)</a><p>
-* <a href = "https://www.geeksforgeeks.org/sieve-eratosthenes-0n-time-complexity/" target ="_blank">Sieve of Eratosthenes in 0(n) time complexity</a><p>
 * <a href = "https://programmingpraxis.com/2012/01/06/pritchards-wheel-sieve/" target ="_blank">Pritchard’s Wheel Sieve</a><p>
 * <a href = "https://core.ac.uk/download/pdf/82210536.pdf" target ="_blank">LINEAR PRIME-NUMBER SIEVES: A FAMILY TREE</a><p>
 * <a href = "https://iishanto.com/prime-numbers-efficient-prime-factorization-bangla/" target ="_blank">সংখ্যাতত্ত্ব: মৌলিক সংখ্যা- প্রাইম ফ্যাক্টরাইজেশন, SOD এবং NOD</a><p>
